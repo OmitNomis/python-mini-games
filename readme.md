@@ -4,7 +4,8 @@ There are a few different command line based applications in this repository. Fo
 
 # How to Run: 
 
-### For Command Line Users
+
+###In the terminal
 
 Step 1:
 ```git clone https://github.com/OmitNomis/python-mini-games.git```
